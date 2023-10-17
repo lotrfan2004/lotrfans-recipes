@@ -1,1 +1,1 @@
-This will showcase my early HTML skillz
+This will showcase my early HTML skills
